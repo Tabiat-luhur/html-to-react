@@ -1,0 +1,55 @@
+.konten{
+    width: 100% !important;
+    height: calc(100vh) !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    
+    margin-top: 170px;
+}
+.kontenWrapper{
+    width: 70%;
+    height: fit-content;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+
+.top{
+    text-align: center;
+    margin-top: 20px !important;
+}
+.top h2{
+    font-size: 50px;
+}
+
+.buttom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 300px !important;
+    
+}
+.products{
+    display: flex ;
+    align-items: center;
+    justify-content: center !important;
+}
+ul{
+    list-style-type: none;
+}
+
+.productItem{
+    padding: 0;
+    flex: 4;
+    height: 300px;
+    
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+.productIcon{
+    font-size: 80px !important;
+    margin: 20px;
+}

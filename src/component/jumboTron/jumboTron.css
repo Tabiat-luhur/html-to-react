@@ -1,0 +1,33 @@
+.jumboTronWrapper{
+    width: 100%;
+    height: calc(100vh-60px) !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+.left{
+    flex: 6;
+}
+.left h1{
+    margin-left: 15%;
+    font-size: 60px;
+    margin-right: 10%;
+}
+
+.right{
+    flex: 6;
+
+}
+.lottie{
+    width: 60%;
+    margin-right: 15%;
+    margin-left: 10%;
+    position: relative;
+}
+.lottieTtem{
+    width: 100%;
+    overflow: hidden;
+    
+    
+}
