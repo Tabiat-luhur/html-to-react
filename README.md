@@ -1,3 +1,8 @@
+# NAMA : FARHAN PURNAMA PUTRA
+# NIM : 21.11.4397
+# KELAS : 21 IF 08
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
